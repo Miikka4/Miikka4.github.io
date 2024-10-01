@@ -52,3 +52,4 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]:https://www.zombo.com
 [another fun place]:https://www.stumbleupon.com
 
+[Palaa takaisin etusivulle](index.md)
