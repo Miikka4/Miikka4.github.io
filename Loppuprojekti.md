@@ -1,4 +1,4 @@
-## <Miikka Myllykangas> web-tehtävä
+## Miikka Myllykangas web-tehtävä
 
 # Italics and Bold
 
