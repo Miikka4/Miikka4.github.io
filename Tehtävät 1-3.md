@@ -52,5 +52,5 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]:https://www.zombo.com
 [another fun place]:https://www.stumbleupon.com
 
-[Tehtävät 4-5:](Tehtävät 4-5.md)
+[Tehtävät 4-5:](Tehtävät 4-5.md)  
 [Palaa takaisin etusivulle](index.md)
